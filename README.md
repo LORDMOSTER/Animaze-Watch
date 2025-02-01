@@ -9,6 +9,7 @@ Welcome to **Animaze-Watch**! This is a personal project where I created a webpa
 - A Contact form has been inserted and connected my MySQL Lite using Python Flask
 ## Technologies Used
 - HTML5
+- Python Flask
 
 ## Installation
 To view the project locally, follow these steps:
