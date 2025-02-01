@@ -6,7 +6,7 @@ Welcome to **Animaze-Watch**! This is a personal project where I created a webpa
 - Custom-built webpage without templates
 - Redirection links to anime content
 - Simple and clean design
-
+- A Contact form has been inserted and connected my MySQL Lite using Python Flask
 ## Technologies Used
 - HTML5
 
